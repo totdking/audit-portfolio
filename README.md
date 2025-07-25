@@ -6,4 +6,4 @@ An overview of audits done across ecosystems and tech stacks
 
 |Contest | Description | Ranking | Report |
 |---|---|---|---|
-|Aquarius Protocol | Aquarius is a decentralized liquidity manager for the stellar chain | 54th | |
+|Aquarius Protocol | Aquarius is a decentralized liquidity manager for the stellar chain | 54/680 | |
