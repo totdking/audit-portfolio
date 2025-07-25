@@ -1,4 +1,4 @@
-# audit-portfolio
+# Audit-portfolio
 An overview of audits done across ecosystems and tech stacks
 
 ## Competitive audits
