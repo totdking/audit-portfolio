@@ -1,6 +1,8 @@
 # Audit-portfolio
 An overview of audits done across ecosystems and tech stacks
 
+https://audits.sherlock.xyz/watson/Konquest
+
 ## Competitive audits
 ### Rust audits
 
