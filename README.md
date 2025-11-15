@@ -5,11 +5,11 @@ An overview of audits done across ecosystems and tech stacks
   . He is an independent security researcher with focus on rust based systems across several decentralized infra including solana, rustwasm, Zero knowledge, L1 and L2 solutions, and Zero knowledge proofs systems
 
 For private audits or consult:
-x: [totdking](x.com/totdking)
-tg: [totdking](t.me/totdking)
-discord: @totdking
+- x: [totdking](x.com/totdking)
+- tg: [totdking](t.me/totdking)
+- discord: @totdking
 
-https://audits.sherlock.xyz/watson/Konquest
+- sherlock: [profile](https://audits.sherlock.xyz/watson/Konquest)
 
 ## Public Competitive audits
 ### Rust audits
