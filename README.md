@@ -11,6 +11,8 @@ For private audits or consult:
 
 - sherlock: [profile](https://audits.sherlock.xyz/watson/Konquest)
 
+---
+
 ## Public Competitive audits
 ### Rust audits
 
@@ -24,3 +26,10 @@ For private audits or consult:
 |---|---|---|---|---|
 | Primeskill Studio gaming protocol | This is an onchain gaming protocol built for the solana chain | 🥈 | 2 meds, 2 low | [link](https://gist.github.com/totdking/32a63d499f537e1497e39d9882dc4ce2) |
 
+---
+
+# Private Audits
+|Protocol | Description | Report |
+|---|---|---|
+|Private| A platform that accrues data of traders using ZKP and uses such data for other dapps |N/A|
+|Private| A solana staking platform that allows for smart reward accrueing for stakers|Still in progress|
