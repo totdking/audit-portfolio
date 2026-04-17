@@ -31,5 +31,5 @@ For private audits or consult:
 # Private Audits
 |Protocol | Description | Report |
 |---|---|---|
-|Private| A platform that accrues data of traders using ZKP and uses such data for other dapps |N/A|
-|Private| A solana staking platform that allows for smart reward accrueing for stakers|Still in progress|
+|Obscura| A platform that accrues data of traders using ZKP and uses such data for other dapps |N/A|
+|Rflx| A solana staking platform that allows for smart reward accrueing for stakers|Still in progress|
